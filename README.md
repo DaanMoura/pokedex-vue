@@ -1,5 +1,7 @@
 # pokedex-vue
 
+This is a version of [this project](https://github.com/DaanMoura/pokedex) made in Vue.js
+
 ## Project setup
 ```
 yarn install
